@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuNavigationScript.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Vuforia test\Vuforia test\Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js">
     <Files>
-      <File FileName="Assets\MenuNavigationScript.cs" Line="11" Column="9" />
-      <File FileName="Assets\Mover.cs" Line="1" Column="1" />
-      <File FileName="Assets\Animations\AnimationPlay.cs" Line="1" Column="1" />
+      <File FileName="..\..\Vuforia test\Vuforia test\Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
