@@ -13,4 +13,21 @@ public class MenuNavigationScript : MonoBehaviour {
 			mainMenuAnimator.Play("MainMenuFadeIn"); //play fade in animation
 		}
 	}
+
+	public void Boton () {
+		Application.LoadLevel ("Botones");
+	}
+
+	public void Marca() {
+		Application.LoadLevel ("Marca");
+	}
+
+	public void Imagen(){
+		Application.LoadLevel ("Imagen");
+
+	}
+
+	public void Creditos(){
+		Application.LoadLevel ("Creditos");
+	}
 }

@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuNavigationScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Animated Menu\Animated Menu\Assets\MenuNavigationScript.cs">
     <Files>
-      <File FileName="Assets\MenuNavigationScript.cs" Line="1" Column="1" />
+      <File FileName="..\Animated Menu\Animated Menu\Assets\MenuNavigationScript.cs" Line="22" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
